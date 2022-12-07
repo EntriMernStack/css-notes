@@ -1,0 +1,24 @@
+a:link {
+  color: yellow;
+}
+a:visited {
+  color: rgb(42, 165, 120);
+}
+a:hover {
+  color: blue;
+}
+p:nth-child(2) {
+  color: blueviolet;
+}
+p:first-line {
+  background-color: rgb(227, 227, 248);
+}
+h2::after {
+  content: "world";
+}
+h2::before {
+  content: "HI,";
+}
+#para::after {
+  content: " xyz";
+}

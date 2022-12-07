@@ -1,0 +1,21 @@
+/* element selector*/
+h1 {
+  color: blue;
+}
+/*universal selector */
+* {
+  color: blue;
+}
+/*id selector*/
+#paragraph1 {
+  background-color: black;
+}
+/* class selector*/
+.paragraph2 {
+  background-color: rgb(104, 188, 128);
+}
+
+h1,
+h4 {
+  color: rgb(145, 164, 66);
+}

@@ -1,0 +1,15 @@
+/* css box model */
+#para1 {
+  width: 500px;
+  height: 200px;
+  border: 5px solid green;
+  /* border-radius: 20px; */
+}
+#para2 {
+  width: 500px;
+  height: 200px;
+  border: 5px solid green;
+  /* border-radius: 20px; */
+  padding: 20px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,11 @@
+/* div > p {
+  background-color: blueviolet;
+} */
+
+/* div + p {
+  background-color: yellow;
+} */
+
+h1 ~ p {
+  background-color: yellow;
+}

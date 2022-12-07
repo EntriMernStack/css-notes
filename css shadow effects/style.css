@@ -1,0 +1,7 @@
+.shadow {
+  text-align: center;
+  text-shadow: 4px 4px 2px red;
+}
+.boxshadow {
+  box-shadow: -2px 4px 2px red;
+}

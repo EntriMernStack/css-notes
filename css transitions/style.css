@@ -1,0 +1,13 @@
+div {
+  background-color: blueviolet;
+  font-family: "Courier New", Courier, monospace;
+  width: 150px;
+  height: 70px;
+  overflow: hidden;
+  margin: auto;
+  transition: width 2s, height 2s;
+}
+div:hover {
+  width: 500px;
+  height: 300px;
+}

@@ -1,0 +1,19 @@
+.animate {
+  width: 200px;
+  height: 100px;
+  background-color: blueviolet;
+  margin: auto;
+  padding: 20px;
+  animation-name: animation;
+  animation-duration: 5s;
+  animation-iteration-count: 2;
+  animation-timing-function: ease-in;
+}
+@keyframes animation {
+  from {
+    background-color: blueviolet;
+  }
+  to {
+    background-color: yellow;
+  }
+}

@@ -1,0 +1,10 @@
+* {
+  color: brown;
+}
+
+div:hover {
+  background-color: blue;
+}
+#para:hover {
+  background-color: yellow;
+}

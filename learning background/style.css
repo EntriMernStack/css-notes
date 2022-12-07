@@ -1,0 +1,25 @@
+body {
+  background-color: rgba(120, 120, 320, 0.5);
+  /* background-size: cover; */
+  /* background-repeat: no-repeat;
+  background-image: url("./assets/pic.jpg");
+  background-position: left;
+  background-attachment: scroll; */
+}
+h2 {
+  width: 50%;
+  background-image: url("./assets/pic.jpg");
+  background-attachment: scroll;
+}
+li {
+  display: inline;
+}
+span {
+  visibility: hidden;
+}
+.over {
+  width: 150px;
+  height: 100px;
+  border: 2px solid green;
+  overflow: visible;
+}
